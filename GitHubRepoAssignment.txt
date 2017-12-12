@@ -1,0 +1,19 @@
+Git commands:
+-clicked + on GitHub site
+-clicked New Repository
+-Assigned Repository Name as GitHubRepoAssignment
+
+Open Command Line:
+-Windows logo + R (run prog)
+-typed 'cmd' to start command prompt
+
+Command Line typing:
+-mkdir GitHubRepoAssignment
+-cd GitHubRepoAssignment
+-git init
+-NUL> readme.md
+-git status
+-git add .
+-git commit -m "Added a readme doc"
+-git remote add origin https://github.com/StuTameo/git_practice.github
+-git push -u origin master
